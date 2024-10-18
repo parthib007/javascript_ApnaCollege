@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: blanchedalmond;
+}
+
+.container {
+    background-color: chartreuse;
+    padding: 2rem;
+    border-radius: 1.5rem;
+    min-height: 30vh;
+    width: 40vh;
+}
+
+form {
+    margin: 2rem 0 1rem 0;
+}
+
+form select, input {
+    width: 100%;
+    border-radius: 2rem;
+}
+
+form input {
+    height: 3rem;
+    font-size: 1.5rem;
+    padding-left: 0.5rem;
+    border-radius: 1rem;
+}
+
+#dropdown {
+    display: flex;
+    justify-content: space-between;
+}

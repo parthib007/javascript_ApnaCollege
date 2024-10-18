@@ -1,0 +1,18 @@
+body {
+    background-color: darkviolet;
+}
+
+.mode1 {
+    background-color: blue;
+    color: rgb(1, 16, 16);
+}
+
+.mode2 {
+    background-color: cadetblue;
+    color: beige;
+}
+
+#btn1 {
+    background-color: blanchedalmond;
+    color:#3e067a;
+}
